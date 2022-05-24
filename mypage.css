@@ -1,0 +1,48 @@
+#Regbtn{
+    /* height: 50px;
+    width: 130px; */
+    border-radius: 30px;
+    border-color: grey;
+    background-color: white;
+    color: red;
+    margin-left: 40%;
+    position: sticky;
+    /* left: 200px; */
+    top: 10px;
+    opacity: 90%;
+    /* border-radius: 50px; */
+} 
+
+#Regbtn:hover{
+    background-color: red;
+    color: black;
+    box-shadow: 3px 4px grey;
+
+} 
+/* .body{
+    background-color:;
+} */
+
+nav{
+    position: sticky;
+}
+/* form{
+    font-weight: 600;
+    font-style: italic;
+} */
+
+
+a{
+    text-decoration: none;
+}
+
+input{
+    border-radius: 7px;
+}
+
+form{
+    border-radius: 50px;
+}
+button{
+    border-radius: 10px;
+}
